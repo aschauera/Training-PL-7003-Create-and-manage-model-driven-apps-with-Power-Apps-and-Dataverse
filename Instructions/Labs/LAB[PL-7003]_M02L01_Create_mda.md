@@ -28,6 +28,7 @@ Contoso Real Estate wants to track two key elements:
 ## Prerequisites
 
 - Must have completed **Lab 2: Data model**
+- OR downloaded and imported the starter solution containined the data model [Download solution](https://github.com/MicrosoftLearning/PL-7003-Create-and-manage-model-driven-apps-with-Power-Apps-and-Dataverse/blob/master/Allfiles/Labs/Completed/Propertylistings_1_0_0_2.zip)
 
 
 ## Detailed steps
