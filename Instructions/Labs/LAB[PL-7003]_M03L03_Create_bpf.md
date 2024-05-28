@@ -47,8 +47,6 @@ In this exercise, you will configure the process steps
 
 1. In the dialog pane, select **Create**
 
-1. Select **Navigation**, select the **Commands** menu (...) **...** and select **New group**.
-
 1. In the business process flow designer add the following stages to capture the lifecycle of a property by dragging 3 **Stage** objects from the right property pane under **Components** 
 
 - New
